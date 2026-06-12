@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-financial-crime-monitoring
+description: "BIAN Service Domain: Financial Crime Monitoring (Monitor pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - monitor
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Shared Operations"
+  isb/asset-type: "Financial Crime Alert"
+  isb/control-record: "Financial Crime Alert Monitoring State"
